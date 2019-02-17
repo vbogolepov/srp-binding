@@ -1,5 +1,5 @@
 {
-  "name": "node-srp-binding",
+  "name": "srp-binding",
   "version": "0.0.1",
   "description": "Implementing Secure Remote Password protocol binding for node.js",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "url": "git+https://github.com/vbogolepov/srp-binding.git"
   },
   "keywords": [
-    "node-srp-binding"
+    "srp-binding"
   ],
   "author": "Viktor Bogolepov",
   "license": "MIT",
