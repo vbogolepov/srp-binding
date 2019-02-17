@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "8.9.4"
+before_install:
+  - "npm install -g npm"
+  - "npm config set spin false"
+before_script:
+  - "npm install bindings"
+  - "npm install nan" 
+  - "npm install mocha"
