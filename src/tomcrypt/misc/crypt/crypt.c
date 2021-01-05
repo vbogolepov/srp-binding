@@ -18,7 +18,6 @@
 const char *crypt_build_settings =
    "LibTomCrypt " SCRYPT " (Tom St Denis, tomstdenis@gmail.com)\n"
    "LibTomCrypt is public domain software.\n"
-   "Built on " __DATE__ " at " __TIME__ "\n\n\n"
    "Endianness: "
 #if defined(ENDIAN_NEUTRAL)
    "neutral\n"
